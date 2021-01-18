@@ -18,10 +18,8 @@ Someone wise said, “Those who fail to plan, plan to fail.” (It may have been
 <h2>4 Bible Reading Plans for&nbsp;a New Year</h2>
 Here are my four favorite bible reading plans. One of these will fit your needs to lead you in reading the bible more this year. *Links updated January 2018*
 
-<a href="http://web.archive.org/web/20160411191322/http://www.biblica.com/en-us/bible/help-reading-the-bible/" target="_blank" rel="noopener"><strong>The Drama of the Bible: A Six-Act Reading Plan</strong></a>
-
-This plan from Biblica leads you through the big story the Bible is telling in about 60 days. This is a great plan for understanding how the different parts of scripture fit into the story of God’s plan for creation.
-
+<a href="http://web.archive.org/web/20160411191322/http://www.biblica.com/en-us/bible/help-reading-the-bible/" target="_blank" rel="noopener"><strong>The Drama of the Bible: A Six-Act Reading Plan</strong></a>  
+This plan from Biblica leads you through the big story the Bible is telling in about 60 days. This is a great plan for understanding how the different parts of scripture fit into the story of God’s plan for creation.  
 <a href="http://web.archive.org/web/20160411191322/http://www.biblica.com/en-us/bible/help-reading-the-bible/" target="_blank" rel="noopener">[ View Here ]</a>
 
 <a href="http://www.navigators.org/wp-content/uploads/2017/04/DJ-Book-at-a-Time-Bible-reading-plan.pdf" target="_blank" rel="noopener"><strong>Book-at-a-Time Bible Reading Plan</strong></a>
