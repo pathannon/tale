@@ -6,8 +6,9 @@ permalink: /about/
 published: true
 ---
 # Pastor. Musician. Student of Jesus.
+<img align="right" width="400" height="400" src="/_pages/3DE3F8B6-B141-4CC3-BDE4-8F3A54E08FED.jpeg">
+## Find me!
 
-## Find me
 - Twitter: [@PHannon](https://twitter.com/PHannon)
 - YouTube: [Patrick Hannon Music](https://www.youtube.com/PatrickHannonMusic)
 - Blog: [PatHannon.net](https://PatHannon.net)
