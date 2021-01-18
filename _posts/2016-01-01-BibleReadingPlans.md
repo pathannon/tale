@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Four Bible Reading Plans for a New Year
-published: true
 ---
 <h2>Happy New Year!</h2>
 What are your resolutions this year?
