@@ -7,9 +7,9 @@ published: true
 ---
 # Pastor. Musician. Student of Jesus.
 
->  Hope is a good thing, maybe the best of things.
-
+> Hope is a good thing, maybe the best of things.<br>
 > -The Shawshank Redemption
+
 <img align="right" width="200" height="200" src="/_pages/3DE3F8B6-B141-4CC3-BDE4-8F3A54E08FED.jpeg">
 ## Find me
 - Twitter: [@PHannon](https://twitter.com/PHannon)
