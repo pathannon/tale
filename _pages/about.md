@@ -7,6 +7,9 @@ published: true
 ---
 # Pastor. Musician. Student of Jesus.
 <img align="right" width="200" height="200" src="/_pages/3DE3F8B6-B141-4CC3-BDE4-8F3A54E08FED.jpeg">
+>  Hope is a good thing, maybe the best of things.
+> -The Shawshank Redemption
+
 ## Find me
 - Twitter: [@PHannon](https://twitter.com/PHannon)
 - YouTube: [Patrick Hannon Music](https://www.youtube.com/PatrickHannonMusic)
