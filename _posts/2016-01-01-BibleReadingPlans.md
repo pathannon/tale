@@ -8,9 +8,9 @@ What are your resolutions this year?
 There’s a good chance you plan to read the bible more this year.
 As you planed last year.
 
-It’s a good resolution. God told Joshua that the path to prosperity and success includes daily study of God’s word.  
+It’s a good resolution. God told Joshua that the path to prosperity and success includes daily study of God’s word.
 <br>`
-<blockquote>Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. - Joshua 1:8</blockquote>  
+<blockquote>Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. - Joshua 1:8</blockquote>
 <br>`
 Someone wise said, “Those who fail to plan, plan to fail.” (It may have been Benjamin Franklin. Or Winston Churchill. Or somebody’s business prof.) You need a plan to move your intentions into actions. A bible reading plan can help you succeed in your intention to read the bible more this year.
 <h2>4 Bible Reading Plans for a New Year</h2>
@@ -33,7 +33,5 @@ Maybe you’re ready for a reading challenge. Perhaps you want to start 2016 wit
 <a href="http://www.scriptureawakening.com/digital/B90-Bookmark.pdf" target="_blank" rel="noopener">[ Download Here ]</a>
 
 What’s your plan for Bible reading this year? May God’s word light every step of your path throughout the year!
-
-<br>`
-
+<br>
 <blockquote>Your word is a lamp for my feet, a light on my path. -Psalm 119:105</blockquote>
