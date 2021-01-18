@@ -9,11 +9,9 @@ There’s a good chance you plan to read the bible more this year.
 As you planed last year.
 
 It’s a good resolution. God told Joshua that the path to prosperity and success includes daily study of God’s word.  
-  
-  
+<br>`
 <blockquote>Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful. - Joshua 1:8</blockquote>  
-  
-  
+<br>`
 Someone wise said, “Those who fail to plan, plan to fail.” (It may have been Benjamin Franklin. Or Winston Churchill. Or somebody’s business prof.) You need a plan to move your intentions into actions. A bible reading plan can help you succeed in your intention to read the bible more this year.
 <h2>4 Bible Reading Plans for a New Year</h2>
 Here are my four favorite bible reading plans. One of these will fit your needs to lead you in reading the bible more this year. *Links updated January 2018*
@@ -34,7 +32,8 @@ Need a plan that requires a smaller time commitment? This plan from Discipleship
 Maybe you’re ready for a reading challenge. Perhaps you want to start 2016 with&nbsp;a bible reading boot camp. With this plan you can read the Bible cover to cover in 90 days.  
 <a href="http://www.scriptureawakening.com/digital/B90-Bookmark.pdf" target="_blank" rel="noopener">[ Download Here ]</a>
 
-What’s your plan for Bible reading this year? May God’s word light every step of your path throughout the year!  
-  
-  
+What’s your plan for Bible reading this year? May God’s word light every step of your path throughout the year!
+
+<br>`
+
 <blockquote>Your word is a lamp for my feet, a light on my path. -Psalm 119:105</blockquote>
