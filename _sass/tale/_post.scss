@@ -6,15 +6,10 @@
     font-family: $serif-secondary;
     letter-spacing: 0.5px;
     text-align: center;
-
-    span {
-      font-style: italic;
-    }
   }
 
   &-title {
     color: $default-shade;
-    background: url("https://pathannon.net/_pages/background.png");
     font-family: $sans-serif;
     font-size: 4rem;
     margin: 1rem 0;
